@@ -1,7 +1,7 @@
 package frc.robot;
 
 public class RobotMap {
-	int yy=1;
+	int yy=2;
 
     public static final int MOTOR_LEFT_1_ID = 0;
 	public static final int MOTOR_LEFT_2_ID = 1;
